@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Laura Sampaio
 
-🌎 Languages: [Português](README-pt.md) | [English](README-en.md)
+🌎 Languages: [Português](README.md) | [English](README-en.md)
 
 🎓 Student of **Systems Development**  
 💻 Currently learning **Python**  
