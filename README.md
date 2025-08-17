@@ -46,16 +46,16 @@
 
 ---
 
-# Estatísticas 
+# 📊 Estatísticas
 
-<!-- Estatísticas gerais -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraMancin&show_icons=true&theme=radical)
+<!-- Estatísticas gerais do GitHub -->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraMancin&show_icons=true&theme=cobalt)
 
 <!-- Linguagens mais usadas -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMancin&layout=compact&langs_count=8&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMancin&layout=compact&langs_count=8&theme=cobalt)
 
 <!-- Contribuições em streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=LauraMancin&theme=radical)
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=LauraMancin&theme=cobalt)
+
 
 > “Aprender é o primeiro passo para transformar ideias em realidade.”
