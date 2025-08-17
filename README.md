@@ -46,4 +46,16 @@
 
 ---
 
+# Estatísticas 
+
+<!-- Estatísticas gerais -->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=henperezz&show_icons=true&theme=radical)
+
+<!-- Linguagens mais usadas -->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henperezz&layout=compact&langs_count=8&theme=radical)
+
+<!-- Contribuições em streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=henperezz&theme=radical)
+---
+
 > “Aprender é o primeiro passo para transformar ideias em realidade.”
