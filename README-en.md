@@ -55,4 +55,4 @@
 
 ---
 
-> “Aprender é o primeiro passo para transformar ideias em realidade.”
+> “Learning is the first step to turning ideas into reality.”
