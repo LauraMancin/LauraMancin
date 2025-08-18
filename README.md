@@ -49,13 +49,13 @@
 # 📊 Estatísticas
 
 <!-- Estatísticas gerais do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraMancin&show_icons=true&theme=onedark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraMancin&show_icons=true&theme=dracula)
 
 <!-- Linguagens mais usadas -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMancin&layout=compact&langs_count=8&theme=onedark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMancin&layout=compact&langs_count=8&theme=dracula)
 
 <!-- Contribuições em streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=LauraMancin&theme=onedark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LauraMancin&theme=dracula)
 
 ---
 
