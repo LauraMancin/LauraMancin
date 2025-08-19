@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Laura Sampaio
+# 👋 Hi, I’m Laura Mancin
 
 🌎 Languages: [Português](README.md) | [English](README-en.md)
 
