@@ -26,8 +26,13 @@
 
 ---
 
-## 🛠️ Ferramentas / Tecnologias
+## 📲 Linguagens
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+---
+
+## 🛠️ Conhecimentos Técnicos
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-ff6f61?style=for-the-badge)
 ![Lógica de programação](https://img.shields.io/badge/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o-4fc08d?style=for-the-badge)
 
