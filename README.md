@@ -39,11 +39,7 @@ Gosto de aprender na prática, desenvolvendo projetos e aprimorando minhas habil
 
 ## 📂 Projetos em destaque
 
-🔹 **[Nome do Projeto]**
-Descrição breve do projeto
-
-🔹 **[Nome do Projeto]**
-Descrição breve
+🔹Não tenho nenhum projeto em andamento no momento, mas sinta-se livre para explorar meus repositórios!
 
 ---
 
