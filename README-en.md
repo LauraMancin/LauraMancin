@@ -1,58 +1,59 @@
-# 👋 Hi, I’m Laura Mancin
+# 👋 Hi, I'm Laura Mancin
 
-🌎 Languages: [Português](README.md) | [English](README-en.md)
-
-🎓 Student of **Systems Development**  
-💻 Currently learning **Python**  
-🤖 Future interest in **Artificial Intelligence** and **Machine Learning**
+💻 Systems Development Student
+🚀 Interested in software development and technology
+📈 Continuously improving my skills
 
 ---
 
-## 📚 Knowledge
-- 🧠 **Programming logic**  
-- 📊 **Algorithms and basic data structures**
+## 🚀 About Me
+
+I am a technology student focused on systems development.
+I enjoy learning by building projects and improving my programming and problem-solving skills.
 
 ---
 
-## 🚀 Currently learning
-- 🐍 Programming in **Python**
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 🌐 Front-end
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🗄️ Databases
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-## 🎯 Goals
-- Build practical projects in Python  
-- In the future, learn the fundamentals of **AI** and **Machine Learning**  
-- Develop solutions that combine programming and applied technology
+## 📂 Featured Projects
+
+🔹 I don't have any projects in progress at the moment, but feel free to explore my repositories!
 
 ---
 
-## 🛠️ Tools / Technologies
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Algorithms](https://img.shields.io/badge/Algorithms-ff6f61?style=for-the-badge)
-![Programming Logic](https://img.shields.io/badge/Programming%20Logic-4fc08d?style=for-the-badge)
+## 📈 Growth
+
+This profile is continuously evolving, reflecting my learning journey and growth in technology.
 
 ---
 
 ## 📫 Contact
-<!-- Botão do LinkedIn --> 
-  <a href="https://www.linkedin.com/in/laura-mancin-591561366/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-  </a>
-<!-- Botão de E-mail -->
-  <a href="mailto:lauramancin8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
----
-# 📊 GitHub Stats
-
-<!-- Estatísticas gerais do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraMancin&show_icons=true&theme=dracula)
-
-<!-- Linguagens mais usadas -->
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMancin&layout=compact&langs_count=8&theme=dracula)
+* 💼 LinkedIn: [your link]
+* 📧 Email: lauramancin8@gmail.com
 
 ---
 
-> “Learning is the first step to turning ideas into reality.”
+⭐ Feel free to explore my repositories and follow my progress!
