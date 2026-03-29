@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Laura Mancin
 
-<p align="right">
+<p align="left">
   <a href="./README.md">Português</a> |
-  <a href="./README.en.md">English</a>
+  <a href="./README-en.md">English</a>
 </p>
 
 💻 Estudante de Desenvolvimento de Sistemas
