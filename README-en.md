@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Laura Mancin
 
-<p align="right">
-  <a href="./README.md">🇧🇷 Português</a>
+<p align="left">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Português-BR-green?style=for-the-badge">
+  </a>
+  <a href="./README-en.md">
+    <img src="https://img.shields.io/badge/English-US-blue?style=for-the-badge">
+  </a>
 </p>
 
 💻 Systems Development Student
