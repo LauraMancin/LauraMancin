@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Laura Mancin
 
+<p align="right">
+  <a href="./README.md">🇧🇷 Português</a>
+</p>
+
 💻 Systems Development Student
 🚀 Interested in software development and technology
 📈 Continuously improving my skills
