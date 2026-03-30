@@ -2,9 +2,9 @@
   🇧🇷 Português | 🇺🇸 English
 </p>
 
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Laura Mancin
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Laura Mancin
 
 ---
 
