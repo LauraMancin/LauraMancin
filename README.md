@@ -64,8 +64,12 @@ This profile is continuously evolving, reflecting my learning journey in technol
 
 ## 📫 Contato / Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/laura-mancin-591561366)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauramancin8@gmail.com)
+<a href="https://www.linkedin.com/in/laura-mancin-591561366" target="_blank">
+  <button>LinkedIn</button>
+</a>
+<a href="mailto:lauramancin8@gmail.com">
+  <button>Email</button>
+</a>
 
 ---
 
