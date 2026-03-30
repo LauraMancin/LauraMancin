@@ -63,11 +63,6 @@ This profile is continuously evolving, reflecting my learning journey in technol
 </p>
 
 ---
-# 📊 Estatísticas / Statistics
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraMancin&show_icons=true&theme=dracula)
-
----
 
 ⭐ Explore meus repositórios e acompanhe minha evolução!
 ⭐ Feel free to explore my repositories and follow my progress!
