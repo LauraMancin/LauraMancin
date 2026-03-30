@@ -64,6 +64,7 @@ This profile is continuously evolving, reflecting my learning journey in technol
 <a href="mailto:lauramancin8@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 ---
 
 ⭐ Explore meus repositórios e acompanhe minha evolução!
