@@ -1,26 +1,30 @@
-# 👋 Olá, eu sou Laura Mancin
-
-<p align="left">
-  <a href="./README.md">Português</a> |
-  <a href="./README-en.md">English</a>
+<p align="right">
+  🇧🇷 Português | 🇺🇸 English
 </p>
 
-💻 Estudante de Desenvolvimento de Sistemas
-🚀 Interessado em desenvolvimento de software e tecnologia
-📈 Em constante evolução
+# 👋 Olá, eu sou [Seu Nome]
+
+# 👋 Hi, I'm [Your Name]
 
 ---
 
-## 🚀 Sobre mim
+## 🇧🇷 Sobre mim
 
-Sou estudante da área de tecnologia com foco em desenvolvimento de sistemas.
-Gosto de aprender na prática, desenvolvendo projetos e aprimorando minhas habilidades em programação e resolução de problemas.
+Sou estudante de Desenvolvimento de Sistemas com interesse em tecnologia e desenvolvimento de software.
+Busco evoluir constantemente minhas habilidades técnicas através da prática e da construção de projetos.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🇺🇸 About Me
 
-### 💻 Linguagens
+I am a Systems Development student interested in technology and software development.
+I am constantly improving my technical skills by building projects and learning through practice.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas / Technologies & Tools
+
+### 💻 Linguagens / Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -30,11 +34,12 @@ Gosto de aprender na prática, desenvolvendo projetos e aprimorando minhas habil
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados / Databases
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Ferramentas
+### ⚙️ Ferramentas / Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -42,23 +47,25 @@ Gosto de aprender na prática, desenvolvendo projetos e aprimorando minhas habil
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projetos em destaque / Featured Projects
 
-🔹Não tenho nenhum projeto em andamento no momento, mas sinta-se livre para explorar meus repositórios!
+🔹 Ainda não possuo um projeto, mas ele está em andamento! Logo estará disponível aqui. 
+   I don't have a project yet, but it's in progress! It will be available here soon.
+---
+
+## 📈 Evolução / Growth
+
+Este perfil está em constante evolução, refletindo meu aprendizado na área de tecnologia.
+This profile is continuously evolving, reflecting my learning journey in technology.
 
 ---
 
-## 📈 Evolução
-
-Este perfil está em constante evolução, refletindo meu aprendizado e desenvolvimento na área de tecnologia.
-
----
-
-## 📫 Contato
+## 📫 Contato / Contact
 
 * 💼 LinkedIn: www.linkedin.com/in/laura-mancin-591561366
 * 📧 Email: lauramancin8@gmail.com
 
 ---
 
-⭐ Explore meus repositórios para acompanhar minha evolução!
+⭐ Explore meus repositórios e acompanhe minha evolução!
+⭐ Feel free to explore my repositories and follow my progress!
