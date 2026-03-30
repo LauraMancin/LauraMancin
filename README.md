@@ -61,7 +61,6 @@ This profile is continuously evolving, reflecting my learning journey in technol
   <a href="https://www.linkedin.com/in/laura-mancin-591561366/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
 </a>
-
 <a href="https://mail.google.com/mail/?view=cm&to=lauramancin8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
