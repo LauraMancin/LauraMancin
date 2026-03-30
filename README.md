@@ -58,12 +58,15 @@ This profile is continuously evolving, reflecting my learning journey in technol
 
 ## 📫 Contato / Contact
 
-<a href="https://www.linkedin.com/in/laura-mancin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:lauramancin8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/laura-mancin-591561366/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+@@ -45,7 +45,7 @@
+</p>
+
+---
+# 📊 Estatísticas / Statistics
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraMancin&show_icons=true&theme=dracula)
 
 ---
 
