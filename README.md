@@ -1,7 +1,3 @@
-<p align="right">
-  🇧🇷 Português | 🇺🇸 English
-</p>
-
 # 👋 Olá, eu sou Laura Mancin
 
 # 👋 Hi, I'm Laura Mancin
