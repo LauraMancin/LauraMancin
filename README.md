@@ -60,6 +60,10 @@ This profile is continuously evolving, reflecting my learning journey in technol
 
 ---
 
+![Stats](https://github-readme-stats.vercel.app/api?username=LauraMancin&theme=merko&hide=commits&show_icons=true)
+
+---
+
 ## 📫 Contato / Contact
 
 * 💼 LinkedIn: www.linkedin.com/in/laura-mancin-591561366
