@@ -58,13 +58,13 @@ This profile is continuously evolving, reflecting my learning journey in technol
 
 ## 📊 Linguagens mais usadas / Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMancin&layout=compact" />
 
 ---
 
 ## 📫 Contato / Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauramancin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauramancin-591561366/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauramancin8@gmail.com)
 
 ---
