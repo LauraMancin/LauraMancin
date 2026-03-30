@@ -56,11 +56,9 @@ This profile is continuously evolving, reflecting my learning journey in technol
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Linguagens mais usadas / Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMancin&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact" />
 
 ---
 
