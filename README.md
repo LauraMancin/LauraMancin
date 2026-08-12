@@ -1,4 +1,4 @@
-[![English README]([https://shields.io](https://img.shields.io/badge/just%20the%20message-8A2BE2))](https://github.com/LauraMancin/LauraMancin/blob/987ab7722c90bd0ff2dff1bc5cf31a3f2a215170/README-eng.md)
+[![English README](https://img.shields.io/badge/just%20the%20message-8A2BE2)(https://github.com/LauraMancin/LauraMancin/blob/987ab7722c90bd0ff2dff1bc5cf31a3f2a215170/README-eng.md)
 
 # 👋 Olá, eu sou Laura Mancin
 ---
