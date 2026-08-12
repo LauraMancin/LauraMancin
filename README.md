@@ -1,4 +1,4 @@
-![English README](https://img.shields.io/badge/:badgeContent/github.com/LauraMancin/LauraMancin/blob/987ab7722c90bd0ff2dff1bc5cf31a3f2a215170/README-eng.md)
+<img src="https://img.shields.io/static/v1?label=Overview&message=LAURAMANCIN&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 # 👋 Olá, eu sou Laura Mancin
 ---
