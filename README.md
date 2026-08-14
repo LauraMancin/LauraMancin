@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="[README-en.md](https://github.com/LauraMancin/LauraMancin/blob/3344d64a7aeaf58491c10f694fce70e990f5d9ef/README-eng.md)">
-    <img src="https://img.shields.io/badge/README-English-9b59b6?style=for-the-badge" alt="Read in English">
+  <a href="README-eng.md">
+    <img src="https://img.shields.io/badge/README-Português-9b59b6?style=for-the-badge" alt="Ler em Português">
   </a>
 </p>
 
