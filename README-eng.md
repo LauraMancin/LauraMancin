@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="readme-banner.svg" alt="Laura Mancin - Development Student" width="100%">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=40&duration=3000&pause=1000&color=C084D4&center=true&vCenter=true&width=700&height=60&lines=Laura+Mancin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&weight=600&size=22&duration=3000&pause=800&color=E8B4D4&center=true&vCenter=true&width=700&height=40&lines=Estudante+de+Desenvolvimento+de+Sistemas;Foco+em+AI+Security" />
+</div>
 
 <p align="left">
   <a href="README.md">
