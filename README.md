@@ -1,6 +1,8 @@
-<a href="[https://github.com/LauraMancin/LauraMancin/blob/fc8b90bf5dde9955f326c0322e82eb695bde84d9/README-eng.md]">
-  <img src="https://img.shields.io/static/v1?label=Overview&message=ENGLISH&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-</a>
+<p align="center">
+  <a href="README-en.md">
+    <img src="https://img.shields.io/badge/README-English-9b59b6?style=for-the-badge" alt="Read in English">
+  </a>
+</p>
 
 # 👋 Olá, eu sou Laura Mancin
 ---
