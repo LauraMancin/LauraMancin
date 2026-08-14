@@ -1,10 +1,15 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=40&duration=3000&color=C084D4&center=true&vCenter=true&width=700&height=60&lines=Laura+Mancin&repeat=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&weight=600&size=22&duration=3000&pause=800&color=E8B4D4&center=true&vCenter=true&width=700&height=40&lines=Estudante+de+Desenvolvimento+de+Sistemas;Foco+em+AI+Security&repeat=true" />
+</div>
+
+
 <p align="left">
   <a href="README-eng.md">
     <img src="https://img.shields.io/badge/README-English-9b59b6?style=for-the-badge" alt="Read in English">
   </a>
 </p>
 
-# 👋 Olá, eu sou Laura Mancin
 ---
 
 ## 🇧🇷 Sobre mim
