@@ -45,7 +45,19 @@ E busco evoluir constantemente minhas habilidades técnicas através da prática
 
 ## 📂 Projetos em destaque
 
-🔹 Ainda não possuo um projeto, mas ele está em andamento! Logo estará disponível aqui. 
+Climate Guide — aplicativo web de clima
+• Integração das APIs OpenWeather e Open-Meteo para previsão do tempo.
+• Gráficos interativos de temperatura e precipitação com Chart.js, além de nascer/pôr do sol, fase da lua, rajadas de vento e probabilidade de arco-íris.
+• Na versão 3, protegi a chave de API com variáveis de ambiente (.env) e documentei as considerações de segurança no README.
+• README bilíngue (português e inglês).
+
+Aroma Café — site de café com adoção de gatos (TCC 2026, em grupo)
+• Projeto de conclusão do curso técnico, desenvolvido em equipe.
+• Responsável pela modelagem do banco de dados e pela documentação: módulos de cadastro/login, cardápio, adoção e reservas, com restrição de maiores de 18 anos.
+• Documentação com regras de negócio, requisitos funcionais e não funcionais, normalização do banco e telas do sistema.
+
+Wiki dos Dragões - A Song of Ice and Fire 
+• Site no formato de wiki sobre os dragões do universo de ASOIAF (A song of Ice and Fire) de George R. R. Martin, com perguntas sobre o tema e back-end em MySQL, usado como principal projeto de demonstração de banco de dados.
 ---
 
 ## 📈 Evolução
